@@ -7,3 +7,6 @@ Appcelerator Titanium module for the Parse SDK. This module currently only suppo
 ## Documentation
 
 Check the readme in the platform specific folders.
+
+1. fix the lack of error callbacks
+2. make auto parse initialization optional
